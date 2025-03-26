@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jabvs/)
 
+[!Tableau Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://public.tableau.com/app/profile/jab.valinejad/vizzes)
 
 
 ### 🏆GitHub Trophies
