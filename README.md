@@ -13,7 +13,7 @@ I'm Jaber...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jabvs/) [![Tableau Badge](https://img.shields.io/badge/Tableau-black?style=social)](https://public.tableau.com/app/profile/jab.valinejad/vizzes)
 
-
+<!--
 ### 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Jaber-Valinejad&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -22,6 +22,7 @@ I'm Jaber...
 
 
 ![Jaber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaber-Valinejad&theme=dark&show_icons=true)
+-->
 
 
 
